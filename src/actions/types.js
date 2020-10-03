@@ -1,0 +1,6 @@
+export const COUNTER_INCREMENT = 'INCREMENT';
+export const COUNTER_DECREMENT = 'DECREMENT';
+export const WELCOME_ACTION_PRESSED = 'WELCOME_ACTION_PRESSED';
+export const FETCH_TODO = 'FETCH_TODO';
+export const LOADER = 'LOADER';
+export const LOADERFALSE = 'LOADERFLASE';
